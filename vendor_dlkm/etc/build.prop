@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=fuxi
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2211133G
+ro.product.vendor_dlkm.name=fuxi
+ro.vendor_dlkm.build.date=Sat Sep 23 01:56:12 KST 2023
+ro.vendor_dlkm.build.date.utc=1695401772
+ro.vendor_dlkm.build.fingerprint=Xiaomi/aospa_fuxi/fuxi:13/TKQ1.230829.001/jake09230156:userdebug/release-keys
+ro.vendor_dlkm.build.id=TKQ1.230829.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=userdebug
+ro.vendor_dlkm.build.version.incremental=eng.jake.20230923.015814
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file
+
